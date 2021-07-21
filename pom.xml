@@ -10,7 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>application</module>
-        <module>gameresources</module>
+        <module>gameresource</module>
         <module>gameservice</module>
     </modules>
 
